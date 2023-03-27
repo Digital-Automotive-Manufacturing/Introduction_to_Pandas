@@ -8,4 +8,4 @@ Upzip it into your desired directory and complete the included .ipynb files.
 - Pandas Primer: HW04-Part_1-Pandas_Intro.ipynb
 
 ### Notebooks for completion and submission to Canvas
-- HW04-Part 2.ipynb
+- HW04-Part_2.ipynb
